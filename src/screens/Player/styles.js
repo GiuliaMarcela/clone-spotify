@@ -47,6 +47,25 @@ const styles = StyleSheet.create({
     color: colors.grey,
     fontSize: 14,
   },
+  slider: {
+    backgroundColor: colors.darkerGrey,
+    borderRadius: 2,
+    height: 4,
+    marginVertical: 50,
+    width: 460,
+  },
+  controls: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    width: '90%',
+  },
+  buttons: {
+    alignItems: 'center',
+    flex: 1,
+    flexDirection: 'row',
+    justifyContent: 'space-evenly',
+  },
 });
 
 export default styles;
