@@ -1,6 +1,5 @@
 import {StyleSheet} from 'react-native';
 import colors from '../../constant/colors';
-import fonts from '../../constant/fonts';
 
 const styles = StyleSheet.create({
   container: {
@@ -19,7 +18,6 @@ const styles = StyleSheet.create({
   },
   text: {
     color: colors.white,
-    fontFamily: fonts.Bold,
     fontWeight: "bold",
     fontSize: 18,
     marginBottom: 60,
@@ -28,7 +26,6 @@ const styles = StyleSheet.create({
   },
   textLogin: {
     color: colors.white,
-    fontFamily: fonts.Bold,
     fontSize: 17,
     marginTop: 20,
     textAlign: "center",
@@ -36,7 +33,6 @@ const styles = StyleSheet.create({
   },
   textButton: {
     color: colors.white,
-    fontFamily: fonts.Bold, 
     textAlign: "center",
     textTransform: "uppercase",
   },
