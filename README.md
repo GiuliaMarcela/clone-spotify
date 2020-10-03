@@ -1,6 +1,6 @@
-<p  align="center">
+<h1  align="center">
 <img  alt="Spotify"  title="#Spotify"  src=".github/logo.png"  width="250px" />
-</p>
+</h1>
 
 <p  align="center">
 <img  alt="App"  src=".github/react-native-github.png"  width="100%">
