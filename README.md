@@ -1,9 +1,9 @@
-<h1  align="center">
+<p  align="center">
 <img  alt="Spotify"  title="#Spotify"  src=".github/logo.png"  width="250px" />
-</h1>
+</p>
 
 <p  align="center">
-<img  alt="App"  src=".github/react-native-github.png"  width="70%">
+<img  alt="App"  src=".github/react-native-github.png"  width="100%">
 </p>
 
 <h4  align="center">
